@@ -11,4 +11,5 @@ Sample website with plenty of files for demos
 
 ## Diployment
 
-## HOw To Contribute
+## HOw To C
+ontribute
