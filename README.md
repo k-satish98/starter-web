@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-
+adding some text .
 
 ## Introduction
 Adding lines from master.adding somemore lines from new branch. 
