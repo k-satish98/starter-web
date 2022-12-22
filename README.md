@@ -4,7 +4,8 @@ This repository is for showing how Git and GitHub work
 
 
 ## Introduction
-Adding lines from master.
+Adding lines from master.adding somemore lines from new branch. 
+
 
 ## Purpose
 
